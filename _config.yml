@@ -1,0 +1,28 @@
+name: Shiva Nandi
+favicon: null
+layout_spectrum: 0.2639484980609268
+typography_spectrum: 0.22091035009361804
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6065080112311989
+  lightness: 0.7520879760850221
+  saturation: 0.8391467600595206
+  rhythmicContrast: 0.8486477211117744
+purpose: []

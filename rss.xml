@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Shiva Nandi]]></title>
+        <description><![CDATA[Shiva Nandi]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Apr 2016 09:30:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>hello</p>]]></description>
+            <link>undefinedf6461630-5677-4a6c-854c-36c6a7e641a8/index.html</link>
+            <guid isPermaLink="false">f6461630-5677-4a6c-854c-36c6a7e641a8</guid>
+            <pubDate>Thu, 14 Apr 2016 09:30:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
